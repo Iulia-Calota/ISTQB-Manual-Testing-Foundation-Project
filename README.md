@@ -33,19 +33,22 @@ Stakeholder Involvement:
 
 ### 2. Dynamic Testing
 
-- All the features of New Customer, Edit Customer, and Delete Customer module defined in Guru99 business requirements will be tested using functional testing and GUI testing.
-- To ensure that new customers can successfully register and access the Guru99 Bank services
-- Functional testing & external interfaces are in scope and need to be tested
-- The banking site will be only compatible with Chrome version 27 and above
-- Here we should write all the functionalities that are included in the release.
-- Testing the functionalities related to account management, including account creation, updating, and deletion.
+- Triggering Failures:
+    -  Identifies defects and triggering failures.
+- Functionality Validation: 
+    - Verifying and Validates the functionality of the website [Prod](https://fentybeauty.com/)
+- Test types:
+    - Functional Testing, Non- Functional Testing, Black box testing
+
+### 3. Objectives of testing
+
+-  Ensures the software is reliable, efficient, and meets user requirements.
+-  Triggers failures and identifies defects.
+-  Reduces the risk of inadequate software quality.
+-   Builds confidence in the test object, contributing to decisions to move to the next SDLC stage, 
+    such as the release decision.
 
 
-### 1.3 Functionalities and Tests Out of Scope
-
-- Non-functional testing like stress, performance is beyond the scope of this project.
-- Automation testing is beyond scope.
-- No QA support for mobile applications developed. Only web applications will be tested.
 
 # 2. Test Process:
 
