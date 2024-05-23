@@ -36,7 +36,7 @@ Stakeholder Involvement:
 - Triggering Failures:
     -  Identifies defects and triggering failures.
 - Functionality Validation: 
-    - Verifying and Validates the functionality of the website [Prod](https://fentybeauty.com/)
+    - Verifying and Validates the functionality of the website [text](https://fentybeauty.com/)
 - Test types:
     - Functional Testing, Non- Functional Testing, Black box testing
 
