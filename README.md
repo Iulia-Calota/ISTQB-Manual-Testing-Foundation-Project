@@ -16,9 +16,10 @@ For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by 
 ## Content:
 
 
-## Introduction:
+## Introduction
 
 - Static and Dynamic testing
+- Software Testing Life Cycle (STLC)
 
 
 ### 1. Static testing
@@ -45,60 +46,51 @@ Stakeholder Involvement:
 -  Ensures the software is reliable, efficient, and meets user requirements.
 -  Triggers failures and identifies defects.
 -  Reduces the risk of inadequate software quality.
--   Builds confidence in the test object, contributing to decisions to move to the next SDLC stage, 
+-  Builds confidence in the test object, contributing to decisions to move to the next SDLC stage, 
     such as the release decision.
 
+### 4.Testing principles used
+
+- Early Testing: 
+    - Saves time and money; early review of test design, requirements, test plan, test cases, and code analysis is cost-effective for finding and fixing defects.
+- Defect Clustering: 
+    - Follows the Pareto principle where a small number of modules contain most defects. This insight is crucial for risk-based testing.
+- Context Dependency: 
+    - Testing varies based on context; different software systems have different risk levels, requiring different approaches, tools, and technologies.
+
+## Software Testing Life Cycle (STLC)
+
+ After planning the objectives, principles, and test approaches, we defined the entry and exit criteria, executed the test suites, generated reports, and completed the test process, making the project ready for a new version release.
 
 
-# 2. Test Process:
+# Entry Criteria
 
-## 2.1 Test Planning
+- All functional, product description and prices are approved by the stakeholders/ marketing team.
+- User stories or use cases are complete and reviewed.
+- Test suites/ Test cases are written, reviewed, and mapped to requirements.
+- Test data is prepared, validated, and available.
+- Agile methodology : **Scrum** (Sprint 2 weeks)
+- Environment: **Prod**
+- Team: **Calota Iulia** -**Quality Assurance/ Tester**
 
-### Roles and Responsibilities:
+# Exit Criteria
 
-| Tester                    | Responsibilities                                |
+- User Experience: Usability testing shows that the website is **user-friendly** and navigable.
+- Cross-Check Compatibility: The website is **tested across various browsers**, ensuring responsive design.
+- Analytics tools are correctly implemented and **reporting**.
+
+
+
+
+
+|             | Responsibilities                                |
 |---------------------------|-------------------------------------------------|
 | Pricopie Adrian (Junior)  | - Edit customer testing,Delete customer                        |
 | Ionut Bogdan(Senior)                          | - Security testing                              |
 | Apetrei Ioana(Junior)                          | - Performance testing                          |
 | Radulescu Andreea (Senior) | - Create new customer,System testing                   |
 
-### Entry Criteria:
-
-- Roles needed for the project are allocated.
-- Functional specifications are defined.
-
-### Exit Criteria:
-
-- 90% of tests are passed.
-- exploratory testing was performed on New customer module.
-- To generate a unique account number and authentication data for the new
-customer.
-- To provide a confirmation message of successful registration.
-- To correctly validate the user-entered data and provide error messages
-in case of errors.
-- To provide a detailed record of the test and the obtained results.
-- The customer deletion operation allows the successful removal of
-customers from the system.
-- After deletion, there are no unwanted references or leftover data in the
-system
-- The system provides a confirmation or success message after a customer
-is successfully deleted.
-- In the case of a failed deletion, the system provides appropriate and
-detailed error messages.
-- Exploratory testing was conducted for the "Delete Customer"
-functionality to identify unexpected or unaddressed issues in the
-planned test cases.
-- The customer modification operation allows the successful modification
-of customer data in the system.
-- After modification, customer data is updated correctly and consistently
-throughout the entire system.
-- The system provides a confirmation or success message after the
-customer's data is successfully modified.
-- In the case of a failed modification, the system provides appropriate
-and detailed error messages
-- Exploratory testing was conducted for the "Edit Customer" functionality
-to identify unexpected or unaddressed issues in the planned test cases.
+-
 
 ### Risks:
 
