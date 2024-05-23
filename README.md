@@ -1,7 +1,9 @@
 # Manual-testing-project
-The 7 phases of the software testing life cycle (STLC) and their importance in ensuring top-notch software quality
-### Brand and Mission: For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by Rihanna. The mission statement for the brand is "so that people everywhere would be included and is created for everyone."
-### Website: fentybeauty.com
+####
+ Brand and Mission: 
+For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by Rihanna. The mission statement for the brand is: 
+> "So that people everywhere would be included and is created for everyone."
+ Website: fentybeauty.com
 ### Device: Windows 11 Pro
 ### Browser: Google Chrome version: 125.0.6422.77
 ### Date: 05.23.2024
@@ -19,31 +21,37 @@ Functionality Validation: Validates the functionality of an application.
 Types: Includes Black-box testing and White-box testing.
 
 #####
-# Guru99 Banking Project
+# Test project Fenty Beauty 
 
-This testing document is intended for the development team, testing team, and other stakeholders involved in the Guru99 Banking project. Additionally, it aims to provide a clear understanding of the testing process for all those interested in the quality and performance of the application.
+For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by Rihanna. The mission statement for the brand is: 
+"So that people everywhere would be included and is created for everyone."
 
 ## Revision History:
 
-| Date       | Description                   | Author            | Comments          |
-| ---------- | ----------------------------- | ------------------ | ------------------ |
-| 23.05.2024 | Test Plan for version 1.0     |   Calota Iulia         | Draft test plan    |
-|  |                         |                        | Added more details for Test Process |
+| Date       | Test process                       | Author             |      Agile   |
+| ---------- | -----------------------------      | ------------------ | -------------|
+| 05.23.2024 | STLC (Software Testing Life Cycle)    Calota Iulia             Scrum 
+                                               
 
-## Table of Content:
+## Content:
 
 
 ## Introduction:
 
-- The Guru99 Bank project aims to provide net banking facility to its customers.
-- This release will have limited features. Over a period of time, new functionalities will be added to the site.
+- Static and Dynamic testing
 
-### 1.1 Project Objective
 
-- We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
-- Application under test:
+### 1. Static testing
+- Early Phase: Begins early in the SDLC.
 
-### 1.2 Functionalities in Scope
+- Quality Evaluation: 
+    - Evaluates the quality and builds confidence in work products like requirements, code analysis, test plans, test cases, and product backlogs.
+Benefits: 
+    - Early testing saves time and money, fulfilling the principle of “Early testing saves time & money.”
+Stakeholder Involvement: 
+    - Involves various stakeholders to review and improve the product.
+
+### 2. Dynamic Testing
 
 - All the features of New Customer, Edit Customer, and Delete Customer module defined in Guru99 business requirements will be tested using functional testing and GUI testing.
 - To ensure that new customers can successfully register and access the Guru99 Bank services
