@@ -4,13 +4,13 @@
 
 For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by Rihanna. The mission statement for the brand is: 
 
-"So that people everywhere would be included and is created for everyone."
+**"So that people everywhere would be included and is created for everyone."**
 
 ## Revision History:
 
 | Date       | Test process                       | Author             |      Agile   |
 | ---------- | -----------------------------      | ------------------ | -------------|
-| 05.23.2024 | STLC (Software Testing Life Cycle) | Calota Iulia       |      Scrum   | 
+| 05/23/2024 | STLC (Software Testing Life Cycle) | Calota Iulia       |      Scrum   | 
                                                    
 
 ## Content:
@@ -37,7 +37,7 @@ Stakeholder Involvement:
 - Triggering Failures:
     -  Identifies defects and triggering failures.
 - Functionality Validation: 
-    - Verifying and Validates the functionality of the website [https://fentybeauty.com]
+    - Verifying and Validates the functionality of the website **[https://fentybeauty.com]**
 - Test types:
     - Functional Testing, Non- Functional Testing, Black box testing
 
