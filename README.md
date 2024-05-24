@@ -10,15 +10,11 @@ For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by 
 
 **"So that people everywhere would be included and is created for everyone."**
 
-## Revision History:
+## Sprint 2 Weeks:
 
-| Date       | Test process                       | Author             |      Agile   |
-| ---------- | -----------------------------      | ------------------ | -------------|
-| 05/23/2024 | STLC (Software Testing Life Cycle) | Calota Iulia       |      Scrum   | 
-                                                   
-
-## Content:
-
+|  Start Date  |  Test process                       |   Tester            | 
+| ----------   | -----------------------------      | ------------------ |
+| 05/10/2024   | STLC (Software Testing Life Cycle) | Calota Iulia       |      
 
 ## Introduction
 
