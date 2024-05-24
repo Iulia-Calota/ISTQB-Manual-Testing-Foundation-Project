@@ -63,7 +63,7 @@ Stakeholder Involvement:
 ~~
 
 ## Entry Criteria
-- Review the **Fenty** website's specifications for **"Favorites" ** and **"Sign in"**  functionalities to be tested.
+- Review the **Fenty** website's specifications for **"Favorites"** and **"Sign in"** functionalities to be tested.
 - User stories (test suites, test cases) are complete and reviewed.
 - Test data is prepared, validated, and available.
 ## Exit Criteria
@@ -84,51 +84,75 @@ Stakeholder Involvement:
 **Deliverables:**
 - Test Summary Report
 
-## 2. Test Case Development
- **Objective**: Create detailed test cases.
+## 2. Test Design
+
+**Objective:** 
+- Create detailed test cases.
 **Activities:**
 - Write test cases for **"Favorites"** and **"Sign in"** functionalities.
 - Review and get approval for the test cases.
-- Tools: TestRail
+- Tools: **TestRail**
 **Deliverables:**
 - Test cases for "Favorites" and "Sign in"
 
-## 2.3 Test Design
+## 3. Test Implementation
 
-- All test cases are written and then examined.
-- Jira will be used as the test management tool.
-- Zephyr squad will be used as a plugin for Jira.
-- The necessary test data for creating a new customer is identified, including name, address, phone number, and email.
+ **Environment Setup**
+- Testing environment:**Prod**
+- Test data:**Creating new account**
+- Devices + Browsers: **PC** ( Windows 11 Pro), **Browsers** (Googke Chrome, Microsoft Edge, Mozilla Firefox)
 
-## 2.4 Test Implementation
+## 4. Test Execution
 
-- The following elements are needed to be ready before the test execution phase begins:
-- Testing environment is up and running.
-- Access to the testing environment is given: UserID:(mngr532768, password: Bugati1@).
-- Cycle summary was created.
-- Test cases were added to the cycle summary.
-- All the test data is available and reviewed (test data=registration was successful, password example, manager user).
-- In the implementation phase, tests are created and prepared for execution. However, regression testing, focusing on high-priority tests, will be conducted in later stages as part of the overall testing process.
-- Test suites are created (Cycle Summary was created).
-- The tests are implemented, and the required test data is created or prepared to be used in the test execution phase
-- The necessary equipment and software are installed for testing.
+**Objective:** 
+- Execute the test cases.
+**Activities:**
+- Execute the test cases as per the test plan.
+- Log defects in Jira for any issues found.
+- Conformation testing and regression testing after bug fixes.
+**Tools:** 
+- TestRail (for test execution), Jira (for bug tracking)
+**Deliverables:**
+- Test execution logs
+- Defect reports
 
-## 2.5 Test Execution
+## 5. Test Cycle Closure
 
-- The tests will be executed on the following browsers: Chrome, Mozilla, IE. If time will be available, we will extend tests on Opera and Brave browsers.
-- Bugs will be created based on the failed test cases.
-- The full regression testing will be done after new application changes.
-- Retesting will be done after a bug is fixed.
-- If the site will shut down, we will execute full retesting.
-- The regression test will be executed when a problem is solved.
-- Write test conditions(What?).
-- Analyze the boundary conditions and limits for each functionality. For example, what happens when a customer record is at its data limit?
+**Objective:** 
+- Conclude the testing process.
+**Activities:**
+- Ensure all planned test cases are executed.
+- Confirm all critical bugs are fixed and closed.
+- Document the test results and prepare a test summary report.
+**Deliverables:**
+- Test summary report
 
+### Implementation in the Project
 
-## 2.6 Test Closure
+# Sprint Planning (05/10/2024 - 05/24/2024)
 
-- 100% tests were executed, and 90% of them are passed.
-- No critical issues have Open status.
+# Requirement Analysis and Test Planning (05/10/2024 - 05/11/2024):
+- Review requirements for "Favorites" and "Sign in".
+- Create test plan and RTM.
+# Test Case Development (05/12/2024 - 05/13/2024):
+- Develop and review test cases in TestRail.
+# Environment Setup (05/14/2024):
+- Prepare the test environment.
+# Test Execution (05/15/2024 - 05/20/2024):
+- Execute test cases.
+- Log and track bugs in Jira.
+- Perform confirmation and regression testing after bug fixes.
+# Test Cycle Closure (05/21/2024 - 05/24/2024):
+- Ensure all tests are executed and critical bugs are resolved.
+- Generate and review the test summary report.
+# Test deliverables
+**- Test Summary Report: **
+- Document covering:
+- Number of test cases executed.
+- Pass/fail status of test cases.
+- Number and severity of bugs found.
+- Confirmation and regression test results.
+
 
 ## 2.7 Test Monitoring and Control
 
