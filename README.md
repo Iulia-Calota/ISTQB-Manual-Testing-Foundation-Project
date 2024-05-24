@@ -1,4 +1,10 @@
 # Manual-testing-project
+
+# Agenda diagram:Fenty beauty
+
+![
+(https://https://github.com/Iulia-Calota/manual-testing-project/blob/main/Agenda%20project.png)]
+
 #####
 # Test project Fenty Beauty 
 
