@@ -62,18 +62,11 @@ Stakeholder Involvement:
  ~~After planning the objectives, principles, and test approaches, we defined the entry and exit criteria, executed the test suites, generated reports, and completed the test process, making the project ready for a new version release.
 ~~
 
-# Entry Criteria
-- Review the Fenty website's specifications for "Favorites" and "Sign in" functionalities.
-- Identify the key functionalities to be tested.
-- Create a requirements traceability matrix (RTM) to map requirements to test cases.
-- User stories or use cases are complete and reviewed.
-- Test suites/ Test cases are written, reviewed, and mapped to requirements.
+## Entry Criteria
+- Review the **Fenty** website's specifications for **"Favorites" ** and **"Sign in"**  functionalities to be tested.
+- User stories (test suites, test cases) are complete and reviewed.
 - Test data is prepared, validated, and available.
-- Agile methodology : **Scrum** (Sprint 2 weeks)
-- Environment: **Prod**
-- Team: **Calota Iulia** -**Quality Assurance/ Tester**
-
-# Exit Criteria
+## Exit Criteria
 
 - User Experience: Usability testing shows that the website is **user-friendly** and accesible.
 - Cross-Check Compatibility: The website is **tested across various browsers**, ensuring responsive design.
