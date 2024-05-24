@@ -75,22 +75,9 @@ Stakeholder Involvement:
 
 # Exit Criteria
 
-- User Experience: Usability testing shows that the website is **user-friendly** and navigable.
+- User Experience: Usability testing shows that the website is **user-friendly** and accesible.
 - Cross-Check Compatibility: The website is **tested across various browsers**, ensuring responsive design.
 - Analytics tools are correctly implemented and **reporting**.
-
-
-
-
-
-|             | Responsibilities                                |
-|---------------------------|-------------------------------------------------|
-| Pricopie Adrian (Junior)  | - Edit customer testing,Delete customer                        |
-| Ionut Bogdan(Senior)                          | - Security testing                              |
-| Apetrei Ioana(Junior)                          | - Performance testing                          |
-| Radulescu Andreea (Senior) | - Create new customer,System testing                   |
-
--
 
 ### Risks:
 
