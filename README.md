@@ -29,8 +29,6 @@ For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by 
     - Evaluates the quality and builds confidence in work products like requirements, code analysis, test plans, test cases, and product backlogs.
 Benefits: 
     - Early testing saves time and money, fulfilling the principle of “Early testing saves time & money.”
-Stakeholder Involvement: 
-    - Involves various stakeholders to review and improve the product.
 
 ###  Dynamic Testing
 
@@ -75,12 +73,17 @@ Stakeholder Involvement:
 ### 1. Test Planning
 
 **Objective**: Plan the testing process.
+
 **Activities:**
 - Define the scope and objectives of testing.
 - Identify resources (team members, tools, etc.).
 - Estimate time and effort for testing.
+
 **Tools**: 
-- Jira (for project management), **TestRail** (for test case management)
+- Jira (for project management)
+
+**TestRail** (for test case management)
+
 **Deliverables:**
 - Test Summary Report
 
