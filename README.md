@@ -138,28 +138,35 @@ Stakeholder Involvement:
 
 ### Sprint Planning (05/10/2024 - 05/24/2024)
 
-## Requirement Analysis and Test Planning (05/10/2024 - 05/11/2024):
+
+### Requirement Analysis and Test Planning (05/10/2024 - 05/11/2024):
 - Review requirements for "Favorites" and "Sign in".
 - Create test plan 
-## Test Case Development (05/12/2024 - 05/13/2024):
+### Test Case Development (05/12/2024 - 05/13/2024):
 - Develop and review test cases in TestRail.
-## Environment Setup (05/14/2024):
+### Environment Setup (05/14/2024):
 - Test environment Prod
+- Device + Browsers 
 
-## Test Execution (05/15/2024 - 05/20/2024):
+### Test Execution (05/15/2024 - 05/20/2024):
 - Execute test cases:
 - Log and track bugs in Jira.
 - Perform confirmation and regression testing after bug fixes.
 
-   **- "Sign In"**
+   ![**"Sign In"05.15.2024**](https://github.com/Iulia-Calota/manual-testing-project/blob/main/Daily%20Status%20report.%20Sign%20In.%2005.15.2024.png)
 
- - Execute test cases:
+   ![**"Sign In"05.16.2024**](https://github.com/Iulia-Calota/manual-testing-project/blob/main/Daily%20Status%20report.%20Sign%20In.%2005.16.2024.png)
+
+- Execute test cases:
 - Log and track bugs in Jira.
 - Perform confirmation and regression testing after bug fixes.
 
-  **- "Favorites"**
+![ **"Favorites"**05.15.2024](https://github.com/Iulia-Calota/manual-testing-project/blob/main/Daily%20Status%20report.%20Favorites.%2005.15.2024.png)
+ 
 
-## Test Cycle Closure (05/21/2024 - 05/24/2024):
+![ **"Favorites"**05.16.2024](https://github.com/Iulia-Calota/manual-testing-project/blob/main/Daily%20Status%20report.%20Favorites.%2005.16.2024.png)
+
+### Test Cycle Closure (05/21/2024 - 05/24/2024):
 - Ensure all tests are executed and critical bugs are resolved.
 - Generate and review the test summary report.
 
@@ -174,9 +181,9 @@ Stakeholder Involvement:
 
 - Summary report
 
-      **- "Sign In"**
+    ![ **"Sign In"**](https://github.com/Iulia-Calota/manual-testing-project/blob/main/Test%20summary%20report%20.Sign%20In.%2005.20.2024.png)
 
-      **- "Favorites"**
+    ![ **"Favorites"**](https://github.com/Iulia-Calota/manual-testing-project/blob/main/Test%20Summary%20report.%20Favorites.%2005.20.2024.png)
 
 - Testing environment: **Prod**
 - Devices + Browsers: **PC** ( Windows 11 Pro), **Browsers** (Google Chrome, Microsoft Edge, Mozilla Firefox)
