@@ -131,22 +131,22 @@ Stakeholder Involvement:
 
 # Sprint Planning (05/10/2024 - 05/24/2024)
 
-# Requirement Analysis and Test Planning (05/10/2024 - 05/11/2024):
+## Requirement Analysis and Test Planning (05/10/2024 - 05/11/2024):
 - Review requirements for "Favorites" and "Sign in".
 - Create test plan and RTM.
-# Test Case Development (05/12/2024 - 05/13/2024):
+## Test Case Development (05/12/2024 - 05/13/2024):
 - Develop and review test cases in TestRail.
-# Environment Setup (05/14/2024):
+## Environment Setup (05/14/2024):
 - Prepare the test environment.
-# Test Execution (05/15/2024 - 05/20/2024):
+## Test Execution (05/15/2024 - 05/20/2024):
 - Execute test cases.
 - Log and track bugs in Jira.
 - Perform confirmation and regression testing after bug fixes.
-# Test Cycle Closure (05/21/2024 - 05/24/2024):
+## Test Cycle Closure (05/21/2024 - 05/24/2024):
 - Ensure all tests are executed and critical bugs are resolved.
 - Generate and review the test summary report.
-# Test deliverables
-**- Test Summary Report: **
+## Test deliverables
+**Test Summary Report:**
 - Document covering:
 - Number of test cases executed.
 - Pass/fail status of test cases.
