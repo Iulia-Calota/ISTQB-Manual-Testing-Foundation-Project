@@ -12,17 +12,17 @@ For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by 
 
 ## Sprint 2 Weeks:
 
-|  Start Date  |  Test process                       |   Tester            | 
+|  Start Date  |  Test process                      |   Tester           | 
 | ----------   | -----------------------------      | ------------------ |
 | 05/10/2024   | STLC (Software Testing Life Cycle) | Calota Iulia       |      
 
-## Introduction
+## 1.Introduction
 
 - Static and Dynamic testing
 - Software Testing Life Cycle (STLC)
 
 
-### 1. Static testing
+### Static testing
 - Early Phase: Begins early in the SDLC.
 
 - Quality Evaluation: 
@@ -32,7 +32,7 @@ Benefits:
 Stakeholder Involvement: 
     - Involves various stakeholders to review and improve the product.
 
-### 2. Dynamic Testing
+###  Dynamic Testing
 
 - Triggering Failures:
     -  Identifies defects and triggering failures.
@@ -41,15 +41,14 @@ Stakeholder Involvement:
 - Test types:
     - Functional Testing, Non- Functional Testing, Black box testing
 
-### 3. Objectives of testing
+###  Objectives of testing
 
 -  Ensures the software is reliable, efficient, and meets user requirements.
 -  Triggers failures and identifies defects.
 -  Reduces the risk of inadequate software quality.
--  Builds confidence in the test object, contributing to decisions to move to the next SDLC stage, 
-    such as the release decision.
+-  Builds confidence in the test object, contributing to decisions to move to the next SDLC stage, such as the release decision.
 
-### 4.Testing principles used
+### Testing principles used:
 
 - Early Testing: 
     - Saves time and money; early review of test design, requirements, test plan, test cases, and code analysis is cost-effective for finding and fixing defects.
@@ -60,12 +59,13 @@ Stakeholder Involvement:
 
 ## Software Testing Life Cycle (STLC)
 
- After planning the objectives, principles, and test approaches, we defined the entry and exit criteria, executed the test suites, generated reports, and completed the test process, making the project ready for a new version release.
-
+ ~~After planning the objectives, principles, and test approaches, we defined the entry and exit criteria, executed the test suites, generated reports, and completed the test process, making the project ready for a new version release.
+~~
 
 # Entry Criteria
-
-- All functional, product description and prices are approved by the stakeholders/ marketing team.
+- Review the Fenty website's specifications for "Favorites" and "Sign in" functionalities.
+- Identify the key functionalities to be tested.
+- Create a requirements traceability matrix (RTM) to map requirements to test cases.
 - User stories or use cases are complete and reviewed.
 - Test suites/ Test cases are written, reviewed, and mapped to requirements.
 - Test data is prepared, validated, and available.
@@ -79,24 +79,26 @@ Stakeholder Involvement:
 - Cross-Check Compatibility: The website is **tested across various browsers**, ensuring responsive design.
 - Analytics tools are correctly implemented and **reporting**.
 
-### Risks:
+### 1. Test Planning
 
-**Project Risks:**
-- The risk of team members committing human errors at various stages of the project, including testing activities.
-- The risk that one or more team members may become unavailable, thus affecting the progress of the project.
-- Uncertainty or lack of communication following testing or the review process, leading to delays or misunderstandings of identified issues.
+**Objective**: Plan the testing process.
+**Activities:**
+- Define the scope and objectives of testing.
+- Identify resources (team members, tools, etc.).
+- Estimate time and effort for testing.
+**Tools**: 
+- Jira (for project management), **TestRail** (for test case management)
+**Deliverables:**
+- Test Summary Report
 
-**Product Risks:**
-- Stability risks (crashes, disconnects, etc)
-- IE browser might have performance issues
-- The web page pagination could be impacted when opened on mobile devices
-- Stress conditions might impact the web application
-- New browser might not be supported 
-
-## 2.2 Test Analysis
-
-- Analyze the business requirements to ensure all details for creating test conditions are available.
-- Identify the functional requirements for each functionality, including what data can be modified, what data can be deleted, and what new customer data can be added.
+## 2. Test Case Development
+ **Objective**: Create detailed test cases.
+**Activities:**
+- Write test cases for **"Favorites"** and **"Sign in"** functionalities.
+- Review and get approval for the test cases.
+- Tools: TestRail
+**Deliverables:**
+- Test cases for "Favorites" and "Sign in"
 
 ## 2.3 Test Design
 
