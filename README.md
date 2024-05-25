@@ -190,7 +190,7 @@ Benefits:
 
 - Testing environment: **Prod**
 - Devices + Browsers: **PC** ( Windows 11 Pro), **Browsers** (Google Chrome, Microsoft Edge, Mozilla Firefox)
-- Jira Sprint Completed ![**Sprint Completed**](https://github.com/Iulia-Calota/manual-testing-project/blob/main/Jira-%20Sprint1%20Complete%20.png)
+- Jira Sprint Completed![**Sprint Completed**](https://github.com/Iulia-Calota/manual-testing-project/blob/main/Jira-%20Sprint1%20Completed.png)
 
 
 
