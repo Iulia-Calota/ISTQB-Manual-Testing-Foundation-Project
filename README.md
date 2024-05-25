@@ -139,10 +139,10 @@ Benefits:
 
 ### Implementation in the Project
 
-### Sprint Planning (05/10/2024 - 05/24/2024)
+#### Sprint Planning (05/10/2024 - 05/24/2024)
 
 
-### Requirement Analysis and Test Planning (05/10/2024 - 05/11/2024):
+#### Requirement Analysis and Test Planning (05/10/2024 - 05/11/2024):
 - Review requirements for "Favorites" and "Sign in".
 - Create test plan 
 ### Test Case Development (05/12/2024 - 05/13/2024):
@@ -190,6 +190,7 @@ Benefits:
 
 - Testing environment: **Prod**
 - Devices + Browsers: **PC** ( Windows 11 Pro), **Browsers** (Google Chrome, Microsoft Edge, Mozilla Firefox)
+- Jira Sprint Completed ![**Sprint Completed**](https://github.com/Iulia-Calota/manual-testing-project/blob/main/Jira-%20Sprint1%20Complete%20.png)
 
 
 
