@@ -4,8 +4,8 @@
 
 
 #####
-# Test project Fenty Beauty 
-
+# Test project for Fenty Beauty 
+ 
 For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by Rihanna. The mission statement for the brand is: 
 
 **"So that people everywhere would be included and is created for everyone."**
