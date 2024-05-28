@@ -17,7 +17,7 @@ For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by 
 | 05/10/2024   | STLC (Software Testing Life Cycle) | Calota Iulia       |      
 
 ## 1.Introduction
-
+- bau bau bau 
 - Static and Dynamic testing
 - Software Testing Life Cycle (STLC)
 
