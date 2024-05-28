@@ -11,7 +11,6 @@ For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by 
 **"So that people everywhere would be included and is created for everyone."**
 
 ## Sprint 2 Weeks:
-- new 
 
 |  Start Date  |  Test process                      |   Tester           | 
 | ----------   | -----------------------------      | ------------------ |
