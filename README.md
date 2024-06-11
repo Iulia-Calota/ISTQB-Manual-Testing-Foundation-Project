@@ -16,7 +16,7 @@ For this project, I am using Fenty Beauty (FEИTY BEAUTY), a cosmetics brand by 
 | ----------   | -----------------------------      | ------------------ |
 | 05/10/2024   | STLC (Software Testing Life Cycle) | Calota Iulia       |      
 
-## 1.Introduction
+## Introduction
 
 - Static and Dynamic testing
 - Software Testing Life Cycle (STLC)
@@ -61,14 +61,18 @@ Benefits:
 ~~
 
 ### Entry Criteria
+
 - Review the **Fenty** website's specifications for **"Favorites"** and **"Sign in"** functionalities to be tested.
 - User stories (test suites, test cases) are complete and reviewed.
 - Test data is prepared, validated, and available.
+
 ### Exit Criteria
 
 - User Experience: Usability testing shows that the website is **user-friendly** and accesible.
 - Cross-Check Compatibility: The website is **tested across various browsers**, ensuring responsive design.
 - Analytics tools are correctly implemented and **reporting**.
+
+### Test Process - Software Testing Life Cycle
 
 ### 1. Test Planning
 
@@ -124,7 +128,12 @@ Benefits:
 - Test execution logs
 - Defect reports
 
-### 5. Test Cycle Closure
+### 5. Test monitoring and Control
+- Checking of all test activities and the comparison of actual progress against the plan
+- Test control involves taking the actions necessary to meet the objectives of testing. 
+- The action plan for everything to work as planned, as intended
+
+### 6. Test Cycle Closure
 
 **Objective:** 
 - Conclude the testing process.
